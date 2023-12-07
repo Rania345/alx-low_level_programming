@@ -4,7 +4,7 @@
 Thank you for visiting my **C programming** projects learnt during my software engineering program with ALX. 
 
 ## Introduction
-**C** is a powerful general-purpose programming language, It can be used to develop software like operating systems, databases, compilers...etc
+**C** is a powerful general-purpose programming language, It can be used to develop software like operating systems, databases, compilers...etc.
 C programming is an excellent language to learn to program for beginners.
 
 ## About
@@ -40,7 +40,6 @@ This repository contains projects on the C programming language, The projects co
 - <a href="0x07-pointers_arrays_strings">0x07-pointers_arrays_strings</a>
 - <a href="0x08-recursion">0x08-recursion</a>
 - <a href="0x09-static_libraries">0x09-static_libraries</a>
-<a href=""></a>
 - <a href="0x0A-argc_argv">0x0A-argc_argv</a>
 - <a href="0x0B-malloc_free">0x0B-malloc_free</a>
 - <a href="0x0C-more_malloc_free">0x0C-more_malloc_free</a>
@@ -55,16 +54,11 @@ This repository contains projects on the C programming language, The projects co
 - <a href="0x17-doubly_linked_lists">0x17-doubly_linked_lists</a>
 - <a href="0x18-dynamic_libraries">0x18-dynamic_libraries</a>
 - <a href="0x1A-hash_tables">0x1A-hash_tables</a>
-<a href=""></a>
-<a href=""></a>
-<a href=""></a>
  
 ## More Resources
-
 - [Pointers and Arrays](./PointerArrays) : Code snippets and notes on Pointers and Arrays from Concept Page.
 - [Data Structures](./DataStructures) : Code snippets and notes on data structures.
 - [Dynamic Memory Allocation](./dynamic_memory_alloc) : Code snippets and notes on how dynamic memory allocation works with `malloc` and `free`.
-
 
 
 ### support:
