@@ -1,4 +1,4 @@
-# C Low level programming & algorithms
+# Alx - Low level programming
 
 ## Welcome 
 Thank you for visiting my **C programming** projects learnt during my software engineering program with ALX. 
