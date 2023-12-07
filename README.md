@@ -4,7 +4,7 @@
 Thank you for visiting my **C programming** projects learnt during my software engineering program with ALX. 
 
 ## Introduction
-**C** is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on.
+**C** is a powerful general-purpose programming language, It can be used to develop software like operating systems, databases, compilers...etc
 C programming is an excellent language to learn to program for beginners.
 
 ## About
@@ -68,4 +68,4 @@ This repository contains projects on the C programming language, The projects co
 
 
 ### support:
-If you like how I present and document my work follow me and do me a favor of giving a **Star** to my repos
+If you like how I present and document my work follow me and do me a favor of giving a **Star** to my repos.
