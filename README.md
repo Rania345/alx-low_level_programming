@@ -1,44 +1,71 @@
-# C Programming Repository
+# C Low level programming & algorithms
 
-Welcome to the C Programming Repository! This repository contains a collection of projects, each dedicated to different aspects of C programming and coding exercises. Each project directory comes with a comprehensive README file, detailing specific tasks and providing clear instructions.
+## Welcome 
+Thank you for visiting my **C programming** projects learnt during my software engineering program with ALX. 
 
+## Introduction
+**C** is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on.
+C programming is an excellent language to learn to program for beginners.
+
+## About
+This repository contains projects on the C programming language, The projects cover:
+
+- Compilation
+- Commenting code and following a coding style standard
+- Variables, types, operators, expressions, loops, nested loops
+- Conditional statements
+- Functions
+- Pre-processor, macros, header files, pointers, double pointers, function pointers, pointer arithmetic
+- Arrays, multidimensional arrays, structures
+- Static and dynamic libraries
+- Program arguments
+- Dynamic allocation
+- Virtual memory, heap, stack
+- Binary operations
+- Makefiles
+- Sorting and search algorithms and more!
+
+## Requirements
+- Ubuntu 14.04 LTS
+- gcc 4.8.4 (-Wall, -Werror, -Wextra, and -pedantic flags)
 
 ## Projects
+- <a href="0x00-hello_world/">0x00-hello_world</a>
+- <a href="0x01-variables_if_else_while">0x01-variables_if_else_while</a>
+- <a href="0x02-functions_nested_loops">0x02-functions_nested_loops</a>
+- <a href="0x03-debugging">0x03-debugging</a>
+- <a href="0x04-more_functions_nested_loops">0x04-more_functions_nested_loops</a>
+- <a href="0x05-pointers_arrays_strings">0x05-pointers_arrays_strings</a>
+- <a href="0x06-pointers_arrays_strings">0x06-pointers_arrays_strings</a>
+- <a href="0x07-pointers_arrays_strings">0x07-pointers_arrays_strings</a>
+- <a href="0x08-recursion">0x08-recursion</a>
+- <a href="0x09-static_libraries">0x09-static_libraries</a>
+<a href=""></a>
+- <a href="0x0A-argc_argv">0x0A-argc_argv</a>
+- <a href="0x0B-malloc_free">0x0B-malloc_free</a>
+- <a href="0x0C-more_malloc_free">0x0C-more_malloc_free</a>
+- <a href="0x0D-preprocessor">0x0D-preprocessor</a>
+- <a href="0x0E-structures_typedef">0x0E-structures_typedef</a>
+- <a href="0x0F-function_pointers">0x0F-function_pointers</a>
+- <a href="0x10-variadic_functions">0x10-variadic_functions</a>
+- <a href="0x12-singly_linked_lists">0x12-singly_linked_lists</a>
+- <a href="0x13-more_singly_linked_lists">0x13-more_singly_linked_lists</a>
+- <a href="0x14-bit_manipulation">0x14-bit_manipulation</a>
+- <a href="0x15-file_io">0x15-file_io</a>
+- <a href="0x17-doubly_linked_lists">0x17-doubly_linked_lists</a>
+- <a href="0x18-dynamic_libraries">0x18-dynamic_libraries</a>
+- <a href="0x1A-hash_tables">0x1A-hash_tables</a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+ 
+## More Resources
 
-Explore the projects available in this repository:
-
-| Directory                                | Description                                                   |
-|------------------------------------------|---------------------------------------------------------------|
-| [0x00-hello_world](./0x00-hello_world)   | Introduction to C programming tasks.                         |
-| [0x01-variables_if_else_while](./0x01-variables_if_else_while) | Advanced conditions and loops.                  |
-| [0x02-functions_nested_loops](./0x02-functions_nested_loops)   | Exploring functions and nested loops.           |
-| [0x03-debugging](./0x03-debugging)       | Debugging and fixing issues.                                 |
-| [0x04-more_functions_nested_loops](./0x04-more_functions_nested_loops) | Additional functions and nested loops.    |
-| [0x05-pointers_arrays_strings](./0x05-pointers_arrays_strings)     | Pointers, arrays, and strings manipulation.  |
-| [0x06-pointers_arrays_strings](./0x06-pointers_arrays_strings)     | More string and array manipulation.           |
-| [0x07-pointers_arrays_strings](./0x07-pointers_arrays_strings)     | Further pointers, arrays, and strings.       |
-| [0x08-recursion](./0x08-recursion)     | Scripsts to implement recursion in nested loops       |
-| [0x09-static_libraries](./0x09-static_libraries)     | Static libraries management and implementation of them       |
-| [0x0A-argc_argv](./0x0A-argc_argv)     | Usage of argc and argv in command-line programs.      |
-| [0x0B-malloc_free](./0x0B-malloc_free)     | Dynamic memory allocation and deallocation using malloc and free.      |
-| [0x0C-more_malloc_free](./0x0C-more_malloc_free)     | Additional dynamic memory allocation and deallocation using malloc and free.      |
-| [0x0D-preprocessor](./0x0D-preprocessor)     | Use of the preprocessor directives and macros in C      |
-| [0x0E-structures_typedef](./0x0E-structures_typedef)     | Implementation of structures typedef      |
-| [0x0F-function_pointers](./0x0F-function_pointers)     | Implementation of function pointers in data structures      |
-| [0x10-variadic_functions](./0x10-variadic_functions)     | Use of variadic functions     |
+- [Pointers and Arrays](./PointerArrays) : Code snippets and notes on Pointers and Arrays from Concept Page.
+- [Data Structures](./DataStructures) : Code snippets and notes on data structures.
+- [Dynamic Memory Allocation](./dynamic_memory_alloc) : Code snippets and notes on how dynamic memory allocation works with `malloc` and `free`.
 
 
-Click on the project links above to navigate to the detailed instructions and tasks in each directory.
 
-## Getting Started
-
-To begin with any project, follow these steps:
-
-### Usage Instructions
-
-1. Open your preferred integrated development environment (IDE) or text editor.
-2. Clone the repository to your local machine using the command `git clone https://github.com/rania345/alx-low_level_programming.git`.
-3. Navigate to the relevant project directory using the `cd` command.
-4. Inside the project directory, discover the README file with comprehensive task instructions.
-5. Craft your C code based on task requirements and provided examples.
-6. Compile and execute your code using a C compiler or IDE.
+### support:
+If you like how I present and document my work follow me and do me a favor of giving a **Star** to my repos
