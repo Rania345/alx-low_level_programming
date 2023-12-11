@@ -1,5 +1,4 @@
 # C - Dynamic libraries
-
 ## Requirements
 ### C
 - Allowed editors: vi, vim, emacs
