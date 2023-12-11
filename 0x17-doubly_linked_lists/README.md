@@ -1,4 +1,5 @@
 # C - Doubly linked lists
+
 ## Requirements
 ### General
 - Allowed editors: vi, vim, emacs
