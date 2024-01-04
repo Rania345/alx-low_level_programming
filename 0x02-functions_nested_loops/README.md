@@ -14,8 +14,8 @@
 - In the following examples, the `main.c` files are shown as examples. You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account). We will use our own `main.c` files at compilation. Our `main.c` files might be different from the one shown in the examples
 - The prototypes of all your functions and the prototype of the function `_putchar` should be included in your header file called `main.h`
 - Don’t forget to push your header file
-## Tasks:
-### 0. [_putchar](0-putchar.c):Write a function that prints the alphabet, in lowercase, followed by a new line.
+## Tasks
+### 0. [_putchar](0-putchar.c): Write a function that prints the alphabet, in lowercase, followed by a new line.
   - Prototype: void print_alphabet(void);
   - You can only use _putchar twice in your code
 
@@ -37,7 +37,7 @@ abcdefghijklmnopqrstuvwxyz
 julien@ubuntu:~/0x02$
 ```
       
-### 1. [alphabet](./1-alphabet.c):Write a function that prints the alphabet, in lowercase, followed by a new line.
+### 1. [alphabet](./1-alphabet.c): Write a function that prints the alphabet, in lowercase, followed by a new line.
 
 - Prototype: void print_alphabet(void);
 You can only use _putchar twice in your code
@@ -60,7 +60,7 @@ You can only use _putchar twice in your code
       julien@ubuntu:~/0x02$
 
 
-### 2. [/2-print](./2-print_alphabet_x10.c):Write a function that prints 10 times the alphabet, in lowercase, followed by a new line.
+### 2. [/2-print](./2-print_alphabet_x10.c): Write a function that prints 10 times the alphabet, in lowercase, followed by a new line.
 
 - Prototype: void print_alphabet_x10(void);
 You can only use _putchar twice in your code
@@ -92,7 +92,7 @@ You can only use _putchar twice in your code
       julien@ubuntu:~/0x02$ 
 
 
-### 3. [islower](3-islower.c):Write a function that checks for lowercase character.
+### 3. [islower](3-islower.c): Write a function that checks for lowercase character.
 
 - Prototype: int _islower(int c);
 - Returns 1 if c is lowercase
@@ -127,7 +127,7 @@ FYI: The standard library provides a similar function: islower. Run man islower 
 
 
 
-### 4. [isalpha](4-isalpha.c):Write a function that checks for alphabetic character.
+### 4. [isalpha](4-isalpha.c): Write a function that checks for alphabetic character.
 
 - Prototype: int _isalpha(int c);
 - Returns 1 if c is a letter, lowercase or uppercase
@@ -163,7 +163,7 @@ FYI: The standard library provides a similar function: isalpha. Run man isalpha 
       julien@ubuntu:~/0x02$ 
 
 
-### 5. [-sign](5-sign.c):Write a function that prints the sign of a number.
+### 5. [-sign](5-sign.c): Write a function that prints the sign of a number.
 
 - Prototype: int print_sign(int n);
 - Returns 1 and prints + if n is greater than zero
@@ -212,7 +212,7 @@ FYI: The standard library provides a similar function: isalpha. Run man isalpha 
       julien@ubuntu:~/0x02$ 
 
 
-### 6. [-abs](6-abs.c):Write a function that computes the absolute value of an integer.
+### 6. [-abs](6-abs.c): Write a function that computes the absolute value of an integer.
 
 - Prototype: int _abs(int);
 FYI: The standard library provides a similar function: abs. Run man abs to learn more.
@@ -249,7 +249,7 @@ FYI: The standard library provides a similar function: abs. Run man abs to learn
       julien@ubuntu:~/0x02$
 
 
-### 7. [print_last_digit](7-print_last_digit.c):Write a function that prints the last digit of a number.
+### 7. [print_last_digit](7-print_last_digit.c): Write a function that prints the last digit of a number.
 
 - Prototype: int print_last_digit(int);
 - Returns the value of the last digit
@@ -278,7 +278,7 @@ FYI: The standard library provides a similar function: abs. Run man abs to learn
       julien@ubuntu:~/0x02$ 
 
 
-### 8. [24_hours](8-24_hours.c):Write a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
+### 8. [24_hours](8-24_hours.c): Write a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
 
 - Prototype: void jack_bauer(void);
 You can listen to this soundtrack while coding :)
@@ -323,7 +323,7 @@ You can listen to this soundtrack while coding :)
       julien@ubuntu:~/0x02$ 
 
 
-### 9. [times_table](9-times_table.c):Write a function that prints the 9 times table, starting with 0.
+### 9. [times_table](9-times_table.c): Write a function that prints the 9 times table, starting with 0.
 
 - Prototype: void times_table(void);
 `Format`: see example
@@ -366,7 +366,7 @@ You can listen to this soundtrack while coding :)
       julien@ubuntu:~/0x02$ 
 
 
-### 10. [10-add](10-add.c):Write a function that adds two integers and returns the result.
+### 10. [10-add](10-add.c): Write a function that adds two integers and returns the result.
 
 - Prototype: int add(int, int);
     julien@ubuntu:~/$ cat 10-main.c
@@ -392,7 +392,7 @@ You can listen to this soundtrack while coding :)
     julien@ubuntu:~/0x02$ 
 
 
-### 11. [print_to_98](11-print_to_98.c):Write a function that prints all natural numbers from n to 98, followed by a new line.
+### 11. [print_to_98](11-print_to_98.c): Write a function that prints all natural numbers from n to 98, followed by a new line.
 
  - Prototype: void print_to_98(int n);
  - Numbers must be separated by a comma, followed by a space
@@ -427,7 +427,7 @@ You are allowed to use the standard library
     julien@ubuntu:~/0x02$ 
 
 
-### 12. [100-times_table](100-times_table.c):Write a function that prints the n times table, starting with 0.
+### 12. [100-times_table](100-times_table.c): Write a function that prints the n times table, starting with 0.
 
  - Prototype: void print_times_table(int n);
  - If n is greater than 15 or less than 0 the function should not print anything
@@ -509,7 +509,7 @@ You are allowed to use the standard library
         julien@ubuntu:~/0x02$ 
 
 
-### 13. [-natural](101-natural.c):If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23. Write a program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
+### 13. [-natural](101-natural.c): If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23. Write a program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
 
  - You are allowed to use the standard library
 
@@ -520,7 +520,7 @@ You are allowed to use the standard library
   - The numbers must be separated by comma, followed by a space , 
  - You are allowed to use the standard library
 
-### 15. [Fibonacci sequence](103-fibonacci.c):Each new term in the Fibonacci sequence is generated by adding the previous two terms. By starting with 1 and 2, the first 10 terms will be: 1, 2, 3, 5, 8, 13, 21, 34, 55, 89. By considering the terms in the Fibonacci sequence whose values do not exceed 4,000,000, write a program that finds and prints the sum of the even-valued terms, followed by a new line.
+### 15. [Fibonacci sequence](103-fibonacci.c): Each new term in the Fibonacci sequence is generated by adding the previous two terms. By starting with 1 and 2, the first 10 terms will be: 1, 2, 3, 5, 8, 13, 21, 34, 55, 89. By considering the terms in the Fibonacci sequence whose values do not exceed 4,000,000, write a program that finds and prints the sum of the even-valued terms, followed by a new line.
  - You are allowed to use the standard library
 
 
