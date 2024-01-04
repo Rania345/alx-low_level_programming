@@ -1,30 +1,16 @@
-# 0x01-variables_if_else_while
-
-## General:
-An introductory project on:
-
-- Arithmetic operators and how to use them
-- Logical operators (boolean operators) and how to use them
-- Relational operators and how to use them
-- What values are considered TRUE and FALSE in C
-- How to declare variables
-- How to affect values to variables
-- How to use the if, if ... else statements
-- How to print the values of variables with printf
-- How to declare variables of types char, int, unsigned int
-- How to print the values of variables of type char, int, unsigned int with printf
-- How to use the while loop
-- What is the ASCII character set
-- The purpose of the gcc flags -m32 and -m64
-
-## Requirements:
-- Ubuntu 14.04
-- gcc 4.8.4
+# C - Variables, if, else, while
+## Requirements
+### General
+- Allowed editors: `vi`, `vim`, `emacs`
+- All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
+- All your files should end with a new line
+- A `README.md` file, at the root of the folder of the project
+- There should be no errors and no warnings during compilation
+- You are not allowed to use `system`
+- Your code should use the `Betty` style. It will be checked using `betty-style.pl` and `betty-doc.pl`
 
 ## Tasks:
-
 ### Mandatory Tasks:
-
 - 0-positive_or_negative.c: Assign a random number to the variable n each time it is executed. 
    - Print whether the number stored in the variable n is positive or negative.
       - The output of the program should be:
@@ -62,7 +48,6 @@ An introductory project on:
 - 9-print_comb.c - prints all single-digit numbers, separated by a comma, using putchar, without using a variable of type char.
  
 ### Advanced Tasks:
-
 - 100-print_comb3.c - prints all possible different combinations of two digits, separated by a comma, using putchar, without using a variable of type char.
 
 - 101-print_comb4.c - prints all possible different combinations of three digits, separated by a comma, using putchar, without using a variable of type char. 
