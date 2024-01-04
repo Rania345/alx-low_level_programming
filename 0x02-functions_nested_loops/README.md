@@ -163,7 +163,7 @@ FYI: The standard library provides a similar function: isalpha. Run man isalpha 
       julien@ubuntu:~/0x02$ 
 
 
-### 5. [-sign](5-sign.c): Write a function that prints the sign of a number.
+### 5. [sign](5-sign.c): Write a function that prints the sign of a number.
 
 - Prototype: int print_sign(int n);
 - Returns 1 and prints + if n is greater than zero
@@ -212,7 +212,7 @@ FYI: The standard library provides a similar function: isalpha. Run man isalpha 
       julien@ubuntu:~/0x02$ 
 
 
-### 6. [-abs](6-abs.c): Write a function that computes the absolute value of an integer.
+### 6. [abs](6-abs.c): Write a function that computes the absolute value of an integer.
 
 - Prototype: int _abs(int);
 FYI: The standard library provides a similar function: abs. Run man abs to learn more.
@@ -366,7 +366,7 @@ You can listen to this soundtrack while coding :)
       julien@ubuntu:~/0x02$ 
 
 
-### 10. [10-add](10-add.c): Write a function that adds two integers and returns the result.
+### 10. [add](10-add.c): Write a function that adds two integers and returns the result.
 
 - Prototype: int add(int, int);
     julien@ubuntu:~/$ cat 10-main.c
@@ -509,7 +509,7 @@ You are allowed to use the standard library
         julien@ubuntu:~/0x02$ 
 
 
-### 13. [-natural](101-natural.c): If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23. Write a program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
+### 13. [natural](101-natural.c): If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23. Write a program that computes and prints the sum of all the multiples of 3 or 5 below 1024 (excluded), followed by a new line.
 
  - You are allowed to use the standard library
 
