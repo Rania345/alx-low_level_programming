@@ -14,15 +14,6 @@
 - In the following examples, the `main.c` files are shown as examples. You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account). We will use our own `main.c` files at compilation. Our `main.c` files might be different from the one shown in the examples
 - The prototypes of all your functions and the prototype of the function `_putchar` should be included in your header file called `main.h`
 - Don’t forget to push your header file
-## Resource
-- [Nested while loops](https://www.youtube.com/watch?v=Z3iGeQ1gIss)
-- [C - Functions](https://www.tutorialspoint.com/cprogramming/c_functions.htm)
-- [Learning to Program in C (Part 06)](https://www.youtube.com/watch?v=qMlnFwYdqIw) *(stop at 14:00)*
-- [What is the purpose of a function prototype?](https://www.geeksforgeeks.org/what-is-the-purpose-of-a-function-prototype/)
-- [C - Header Files](https://www.tutorialspoint.com/cprogramming/c_header_files.htm) *(stop before the “Once-Only Headers” paragraph)*
-
-<hr>
-
 ## Tasks:
 ### 0. [_putchar](0-putchar.c):Write a function that prints the alphabet, in lowercase, followed by a new line.
   - Prototype: void print_alphabet(void);
