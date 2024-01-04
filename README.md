@@ -5,7 +5,7 @@ Thank you for visiting my **C programming** projects learnt during my software e
 
 ## Introduction
 **C** is a powerful general-purpose programming language, It can be used to develop software like operating systems, databases, compilers...etc.
-C programming is an excellent language to learn to program for beginners.
+**C** programming is an excellent language to learn to program for beginners.
 
 ## About
 This repository contains projects on the C programming language, The projects cover:
