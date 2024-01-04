@@ -9,7 +9,7 @@
 - You are not allowed to use `system`
 - Your code should use the `Betty` style. It will be checked using `betty-style.pl` and `betty-doc.pl`
 
-## Tasks:
+## Tasks
 ### Mandatory Tasks:
 - 0-positive_or_negative.c: Assign a random number to the variable n each time it is executed. 
    - Print whether the number stored in the variable n is positive or negative.
