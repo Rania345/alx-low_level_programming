@@ -15,7 +15,7 @@
 - All your scripts should be exactly two lines long (`$ wc -l file` should print 2)
 - All your files should end with a new line
 - The first line of all your files should be exactly `#!/bin/bash`
-## Tasks:
+## Tasks
 ### Mandatory Tasks:
 - 0-preprocessor - a bash script that runs a C file, saved in the variable $CFILE, through the preprocessor and saves the result into another file, named c
 
