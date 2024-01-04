@@ -33,23 +33,23 @@
              
 - 2-print_alphabet.c:  Print the alphabet in lowercase, followed by a new line, using putchar.
 
-- 3-print_alphabets.c - prints the alphabet in lowercase, and then in uppercase, followed by a new line, using putchar.
+- 3-print_alphabets.c: prints the alphabet in lowercase, and then in uppercase, followed by a new line, using putchar.
 
-- 4-print_alphabt.c - prints the alphabet in lowercase, followed by a new line, except the letters q and e using putchar.
+- 4-print_alphabt.c: prints the alphabet in lowercase, followed by a new line, except the letters q and e using putchar.
 
-- 5-print_numbers.c - prints all single digit numbers of base 10 starting from 0, followed by a new line.
+- 5-print_numbers.c: prints all single digit numbers of base 10 starting from 0, followed by a new line.
 
-- 6-print_numberz.c - prints all single digit numbers of base 10 starting from 0, followed by a new line, using putchar, without using a variable of type char.
+- 6-print_numberz.c: prints all single digit numbers of base 10 starting from 0, followed by a new line, using putchar, without using a variable of type char.
 
-- 7-print_tebahpla.c - prints the lowercase alphabet in reverse, followed by a new line, using putchar.
+- 7-print_tebahpla.c: prints the lowercase alphabet in reverse, followed by a new line, using putchar.
 
-- 8-print_base16.c - prints all the numbers of base 16 in lowercase, followed by a new line, using putchar.
+- 8-print_base16.c: prints all the numbers of base 16 in lowercase, followed by a new line, using putchar.
 
-- 9-print_comb.c - prints all single-digit numbers, separated by a comma, using putchar, without using a variable of type char.
+- 9-print_comb.c: prints all single-digit numbers, separated by a comma, using putchar, without using a variable of type char.
  
 ### Advanced Tasks:
-- 100-print_comb3.c - prints all possible different combinations of two digits, separated by a comma, using putchar, without using a variable of type char.
+- 100-print_comb3.c: prints all possible different combinations of two digits, separated by a comma, using putchar, without using a variable of type char.
 
-- 101-print_comb4.c - prints all possible different combinations of three digits, separated by a comma, using putchar, without using a variable of type char. 
+- 101-print_comb4.c: prints all possible different combinations of three digits, separated by a comma, using putchar, without using a variable of type char. 
 
-- 102-print_comb5.c - prints all possible different combinations of two two digit numbers, separated by a comma, using putchar, without using a variable of type char.
+- 102-print_comb5.c: prints all possible different combinations of two two digit numbers, separated by a comma, using putchar, without using a variable of type char.
