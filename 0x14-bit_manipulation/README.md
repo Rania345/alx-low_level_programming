@@ -1,43 +1,19 @@
-# 0x14. C - Bit manipulation 
-
-
-## Resource
-
-- [Number Systems Introduction](https://www.youtube.com/watch?v=FFDMzbrEXaE&t=2s)
-- [How to add and minus binary numbers](https://youtu.be/C5EkxfNEMjE)
-- [Binary ..](https://youtu.be/RrJXLdv1i74)
-- [Binary Addition and Subtraction With Negative Numbers](https://youtu.be/sJXTo3EZoxM)
-- [Bitwise Operators in C part 1](https://youtu.be/jlQmeyce65Q)
-- [Bitwise Operators in C part 2](https://youtu.be/8aFik6lPPaA)
-- [Bitwise Operators in C part 3](https://youtu.be/GhhJP6vpEA8)
-- [Bitwise Operators in C part 4](https://youtu.be/kYR5biY4OHw)
-- [Algorithms: Bit Manipulation](https://youtu.be/NLKQEOgBAnw)
-
----
-
-- Below are some notes on `~`, `>>` and `<<` bitwise operators.
-
-- NOT operator `~`
-	- Result is `0` when bit is `1` and `1` when bit is `0`
-
-- Right Shift `>>`
-	- `leftOperand` >> `rightOperand`
-		- leftOperand: whose bits get right shifted
-		- rightOperand: Decides number of places to shift the bits
-		- Example: `0x02 >> 1` = `0x01`
-	- When bits are shifted right the leading positions are filled with zeros
-	- It is equivalent to division by 2<sup>rightOperand</sup>
-		- Example: `0x02` >> `1` == `0x02` / 2<sup>1</sup>
-
-- Left Shift `<<`
-	- `leftOperand` << `rightOperand`
-		- leftOperand: whose bits get right shifted
-		- rightOperand: Decides number of places to shift the bits
-		- Example: `0x01 << 1` = `0x02`
-	- When bits are shifted left the trailing positions are filled with zeros
-	- It is equivalent to multiplication by 2<sup>rightOperand</sup>
-		- Example: `0x01` << `1` == `0x01` / 2<sup>1</sup>
-
+# 0x14. C - Bit manipulation
+## Requirements
+- Allowed editors: `vi`, `vim`, `emacs`
+- All your files will be compiled on Ubuntu 20.04 LTS using `gcc`, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
+- All your files should end with a new line
+- A `README.md` file, at the root of the folder of the project is mandatory
+- Your code should use the `Betty` style. It will be checked using `betty-style.pl` and `betty-doc.pl`
+- You are not allowed to use global variables
+- No more than 5 functions per file
+- The only C standard library functions allowed are `malloc`, `free` and `exit`. Any use of functions like `printf`, `puts`, `calloc`, `realloc` etc… is forbidden
+- You are allowed to use `_putchar`
+- You don’t have to push `_putchar.c`, we will use our file. If you do it won’t be taken into account
+- In the following examples, the `main.c` files are shown as examples. You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account). We will use our own `main.c` files at compilation. Our `main.c` files might be different from the one shown in the examples
+- The prototypes of all your functions and the prototype of the function `_putchar` should be included in your header file called `lists.h`
+- Don’t forget to push your header file
+- All your header files should be include guarded
 ## Tasks
 
 - All `*-main.c` are in the [main](./main) directory.
